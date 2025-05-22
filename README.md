@@ -1,4 +1,4 @@
-# Ali (xertioN) here. 👋
+# Hi. 👋
 
 **Computer Scientist in progress** & **man on many missions**.
 
