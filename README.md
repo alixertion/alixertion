@@ -8,6 +8,6 @@ I'm currently diving deep into:
 - 📊 Developing systems that think with data
 
 ## 📬 Let's connect
-Feel free to check out my pinned projects or reach out.
+Feel free to check out my projects or reach out.
 
 ---
