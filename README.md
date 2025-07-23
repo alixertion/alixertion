@@ -11,3 +11,5 @@ I'm currently diving deep into:
 Feel free to check out my projects or reach out.
 
 ---
+
+[![1eclerc's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1eclerc&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
